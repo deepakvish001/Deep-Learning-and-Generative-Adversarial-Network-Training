@@ -5,7 +5,7 @@ Neural networks lectures for computer science students.
 <br>
 <br>
 
-## `Part 1`  `30 hrs`
+## `Part 1` 
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
@@ -80,7 +80,7 @@ Neural networks lectures for computer science students.
 <br>
 <br>
 
-## `Part 2`  `30 hrs`
+## `Part 2` 
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
