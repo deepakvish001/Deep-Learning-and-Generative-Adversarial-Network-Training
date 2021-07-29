@@ -1,1 +1,1 @@
-# Neural-Networks-and-Deep-Learning-Training
+# Neural Networks and Deep Learning Training
