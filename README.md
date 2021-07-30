@@ -1,1 +1,1 @@
-# Neural Networks and Deep Learning Training
+# Deep Learning and Generative Adversarial Networks Training
