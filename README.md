@@ -71,11 +71,11 @@ Deep Learning and Generative Adversarial Network Training for computer science s
 
 
 
-<br>
+<br><br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 <br>
 
-## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
+## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/README.md)
 
 
 
