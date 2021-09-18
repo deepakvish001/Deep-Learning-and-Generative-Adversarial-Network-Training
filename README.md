@@ -180,6 +180,58 @@ Deep Learning and Generative Adversarial Network Training for computer science s
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md)
 
+<table>
+    <tbody>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Introduction to Machine Learning by Duke University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">An Introduction to Practical Deep Learning by Intel</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Deep Learning Specialization by deeplearning.ai</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">DeepLearning.AI TensorFlow Developer Profession Specialization by deeplearning.ai</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/intel.jpg"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg"></img></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">TensorFlow: Data and Deployment by deeplearning.ai</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">AI for Medicine by deeplearning.ai</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">TensorFlow: Advanced Techniques by deeplearning.ai</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Generative Adversarial Networks (GANs) by deeplearning.ai</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg"></img></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Machine Learning Engineering for Production (MLOps) by deeplearning.ai</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Practical Data Science by deeplearning.ai</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">IBM AI Engineering Professional Certificate by IBM</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">TensorFlow 2 for Deep Learning Specialization by Imperial College London</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg"></img></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization by Google Cloud</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Advanced Machine Learning Specialization by National Research University Higher School of Economics</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Natural Language Processing Specialization by deeplearning.ai</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">IBM AI Enterprise Workflow Specialization by IBM</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg"></img></td>
+        </tr>
+    </tbody>
+</table>
 
 <br><br>
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
